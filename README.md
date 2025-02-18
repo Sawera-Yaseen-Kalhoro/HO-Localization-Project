@@ -41,6 +41,6 @@ sudo apt-get install ros-noetic-teleop-twist-keyboard
 For more information, refer to this [link](https://wiki.ros.org/teleop_twist_keyboard).
 
 ## Authors
-Alan Ustariz
-Sawera Yaseen
-Vania K Mulia
+* Alan Ustariz
+* Sawera Yaseen
+* Vania K Mulia
